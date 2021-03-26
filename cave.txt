@@ -53,4 +53,4 @@ def main():
             SURFACE.fill((0,255,0))
             for hole in holes:
                 pygame.draw.rect(SURFACE, (0,0,0),hole)
-            SURFACE
+            SURFACE 1
